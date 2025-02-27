@@ -2,3 +2,4 @@
 Estado Actual: En construccion
 Para ejecular el programa
 '''CTRL + T'''
+Actualizando README.md
